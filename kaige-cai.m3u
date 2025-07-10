@@ -395,17 +395,3 @@ http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/60700
 http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/60701
 #EXTINF:-1,SEXT6SENSO
 http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/60702
-#EXTINF:-1 group-title="CCTV-1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
-http://ott.mobaibox.com/PLTV/3/224/3221227896/index.m3u8 
-#EXTINF:-1 group-title="CCTV-2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2
-http://223.110.241.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ
-#EXTINF:-1 group-title="CCTV-3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3
-http://223.110.241.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ
-#EXTINF:-1 group-title="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4
-http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ
-#EXTINF:-1 group-title="CCTV-5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5
-http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ
-#EXTINF:-1 group-title="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+
-http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
-#EXTINF:-1 group-title="CCTV-6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6
-http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ
