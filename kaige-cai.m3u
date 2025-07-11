@@ -17,6 +17,8 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人",Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1,Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
 #EXTINF:-1 group-title="成人",Brazzers_TV
 http://31.148.48.15/Brazzers_TV_Europe/playlist.m3u8
 #EXTINF:-1 group-title="成人",French_Lover
@@ -43,8 +45,6 @@ http://51.159.102.100/RedlightHD/index.m3u8
 http://live.adultiptv.net/pornstar.m3u8
 #EXTINF:-1,风花雪
 https://j9.avstatic.com/contents/videos/30000/30135/index.m3u8
-#EXTINF:-1,Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
 #EXTINF:-1,MILF
 http://live.redtraffic.xyz/milf.m3u8
 #EXTINF:-1,Big Dick
